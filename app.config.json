@@ -2,7 +2,7 @@
   "configuration": {
     "database": {
       "dead_market_prod": {
-        "connection_string": "host=db-postgresql-nyc1-47423-do-user-12834456-0.b.db.ondigitalocean.com;port=25060;username=doadmin;password=AVNS_TqxqRdNRQvjGJlKLuaJ;database=necrotopia_db"
+        "connection_string": "INSERT_CREDENTIALS_HERE"
       }
     }
   }
